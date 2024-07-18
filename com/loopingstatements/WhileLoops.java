@@ -1,3 +1,5 @@
+package com.loopingstatements;
+
 import java.util.Scanner;
 
 public class WhileLoops {

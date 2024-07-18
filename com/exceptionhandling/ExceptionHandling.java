@@ -4,9 +4,6 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class ExceptionHandling {
-    @SuppressWarnings("resource") /*It is an annotation in Java and a powerful tool that enables developers to have more control 
-    over the compilation process by suppressing specific warnings. It can enhance code readability by hiding controlled or 
-    unnecessary warnings that are not relevant to the code.*/
     public static void main(String[] args){
         //exception :- an event that disrupts normal flow of program during execution
         Scanner scanner = new Scanner(System.in);
